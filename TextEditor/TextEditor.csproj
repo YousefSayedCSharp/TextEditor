@@ -81,7 +81,6 @@
     <Compile Include="DevTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="farah1\Class1.cs" />
     <Compile Include="frmEditor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,7 +95,6 @@
     <Compile Include="StanderedForm.Designer.cs">
       <DependentUpon>StanderedForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="youseftest4\Class1.cs" />
     <EmbeddedResource Include="frmEditor.resx">
       <DependentUpon>frmEditor.cs</DependentUpon>
     </EmbeddedResource>
