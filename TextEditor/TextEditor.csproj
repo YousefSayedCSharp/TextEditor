@@ -95,6 +95,7 @@
     <Compile Include="StanderedForm.Designer.cs">
       <DependentUpon>StanderedForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="youseftest4\Class1.cs" />
     <EmbeddedResource Include="frmEditor.resx">
       <DependentUpon>frmEditor.cs</DependentUpon>
     </EmbeddedResource>
@@ -136,8 +137,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="youseftest4\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
