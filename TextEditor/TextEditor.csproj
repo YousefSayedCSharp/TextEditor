@@ -81,6 +81,7 @@
     <Compile Include="DevTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Farah\Class1.cs" />
     <Compile Include="frmEditor.cs">
       <SubType>Form</SubType>
     </Compile>
