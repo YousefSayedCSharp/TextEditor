@@ -95,8 +95,6 @@
     <Compile Include="StanderedForm.Designer.cs">
       <DependentUpon>StanderedForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="YousefTestGit\Class1.cs" />
-    <Compile Include="YousefTestGit\Class2.cs" />
     <EmbeddedResource Include="frmEditor.resx">
       <DependentUpon>frmEditor.cs</DependentUpon>
     </EmbeddedResource>
